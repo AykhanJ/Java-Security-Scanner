@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+*.mv.db
+*.trace.db
+.settings/
+.classpath
+.project
